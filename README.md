@@ -72,3 +72,4 @@
   <li>Создать визуализацию итогового результата </li>
   <li>Cобрать калькулятор юнит-экономики</li>
 </ol>
+<p>  <a href="https://github.com/Alexx-andr/My-porfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.rar">Ссылка на проект 3</a> <p>
