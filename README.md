@@ -61,4 +61,5 @@
 <p>
 <p>  <a href="https://github.com/Alexx-andr/My-porfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202%20(%D0%BA%D0%BE%D0%B4%20SQL).txt">Ссылка на проект 2 (код SQL)</a> <p>
 Вывод:
+
 Специалистам по машинному обучению была составлена витрина для их модели
