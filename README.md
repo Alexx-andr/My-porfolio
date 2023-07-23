@@ -59,4 +59,4 @@
 <li>Количество кредитов, выданных в рамках указанного типа кредита.</li>
 <li>Количество кредитов, выданных в рамках указанного типа кредита и города</li>
 <p>
-<p>  <a href="https://github.com/Alexx-andr/My-porfolio/blob/main/%D0%9A%D0%BE%D0%B4%20SQL%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.txt">Ссылка на проект 1 (код SQL)</a> <p>
+<p>  <a href="https://github.com/Alexx-andr/My-porfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202%20(%D0%BA%D0%BE%D0%B4%20SQL).txt">Ссылка на проект 2 (код SQL)</a> <p>
