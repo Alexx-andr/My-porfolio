@@ -73,3 +73,6 @@
   <li>Cобрать калькулятор юнит-экономики</li>
 </ol>
 <p>  <a href="https://github.com/Alexx-andr/My-porfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.rar">Ссылка на проект 3</a> <p>
+
+
+<p>  <a href="https://github.com/Alexx-andr/My-porfolio/blob/main/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.pptx">Графики и визуализация проект 3</a> <p>
